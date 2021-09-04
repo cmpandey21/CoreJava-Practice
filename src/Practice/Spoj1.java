@@ -12,7 +12,8 @@ public class Spoj1 {
 @SuppressWarnings("resource")
 Scanner scanner= new Scanner(System.in);
 
-for(int i = 0; ;i++)
+for(@SuppressWarnings("unused")
+int i = 0; ;i++)
 {
   int temp =scanner.nextInt(); 
   
@@ -22,6 +23,5 @@ for(int i = 0; ;i++)
     else break;
 }
 		
-
-
 }}
+

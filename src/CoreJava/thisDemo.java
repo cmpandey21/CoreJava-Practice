@@ -12,7 +12,7 @@ System.out.println(a);
 System.out.println(this.a);
 System.out.println(b);
 
-// this refers to curent object- object scope lies in class level
+// this refers to current object- object scope lies in class level
 }
 //
 
