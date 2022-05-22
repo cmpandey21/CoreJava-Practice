@@ -13,9 +13,9 @@ int[] result = new int[26];
 for(int i=0;i<S1.length() || i < S2.length();i++)
 {         
 	
-	     if(i<S1.length()) {
+	  if(i<S1.length()) {
 	  if(S1.charAt(i)>='a' && S1.charAt(i)<='z')
-       result[S1.charAt(i)-'a']++;   
+      result[S1.charAt(i)-'a']++;   
 	  
 	  else if(S1.charAt(i)>='A' && S1.charAt(i)<='Z') {
 		  result[S1.charAt(i)-'A']++;

@@ -1,5 +1,5 @@
 package Practice;
-//Is it possible to run Java program without main method: Answer is Yes. With help of static block
+//Is it possible to run Java program without main method: Answer is Yes. With help of static block.
 public class StaticBlockWithoutMain {
 
 	
