@@ -10,7 +10,7 @@ public class Test {
 
 		String s="My name is Chandra Mohan Pandey";
 		
-		String s2[] = s.split(" ");
+/*		String s2[] = s.split(" ");
 		s="";
 		
 		for(int i=s2.length-1;i>=0;i--) {
@@ -21,22 +21,23 @@ public class Test {
 			else s+=s2[i];
 		}
 		
+	*/	
+		String s1="";
 		
-//		String s1="";
-//		
-//		for(int i=s.length()-1; i>0;i--)
-//			
-//		{
-//		    if(s.charAt(i)>='1' && s.charAt(i)<='9') {
-//		    	int x=s.charAt(i)-'0';
-//		    	for(int j=0;j<x;j++){
-//		    	   s1+=s.charAt(i-1);
-//		    	}
-//		    }
-//			
-//		}
+		for(int i=s.length()-1; i>0;i--)
+			
+		{
+		    if(s.charAt(i)>='1' && s.charAt(i)<='9') {
+		    	int x=s.charAt(i)-'0';
+		    	for(int j=0;j<x;j++){
+		    	   s1+=s.charAt(i-1);
+		    	}
+		    }
+			
+		}
 		
-		System.out.println(s);
+		//System.out.println(s);
+		System.out.println(s1);
 		
 		
 	}

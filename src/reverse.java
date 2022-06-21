@@ -12,6 +12,8 @@ public class reverse {
 			
 			s2= s2+ s1.charAt(i);
 		}
+		System.out.println(s2);
 	}
+
 
 }
