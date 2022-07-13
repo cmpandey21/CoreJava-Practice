@@ -27,4 +27,5 @@ for(int j=0;j<3;j++) //column
 System.out.println(a[i][j]);
 }
 }
-}}
+}
+}

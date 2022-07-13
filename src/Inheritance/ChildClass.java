@@ -31,6 +31,6 @@ String colour = "Red";
 
 }
 //Default: access method anywhere only in package
-//public: valirable /method as public then you will have access across all the packages
+//public: variable /method as public then you will have access across all the packages
 //private: you can not access method/variable outside the class 
-//protected : variable/method as proteced then you can access these in sub class (means the class which is inherting the properties) (this is for other packages)
+//protected : variable/method as protected then you can access these in sub class (means the class which is inheriting the properties) (this is for other packages)
