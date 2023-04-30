@@ -6,6 +6,7 @@ public class UpperCaseConversion {
 	{
 		String str = "";
 	       str+=(char)(s.charAt(0)-32);
+	      
 	       for(int i=1; i<s.length(); i++){
 	           if(s.charAt(i-1)==' ')
 	               str+=(char)(s.charAt(i)-32);

@@ -21,8 +21,6 @@ public class DisplayLongestName {
 		String s1=DisplayLongestName.longest(s,5);
 		System.out.println(s1);
 		s1=s1.toLowerCase();
-char[] a= {'a','b','c'};
-
 		System.out.println(s1);
 	}
 

@@ -16,6 +16,7 @@ public class Programforasciivalue {
 			{
 				int x=s.charAt(i)-'0';
 				
+				
 				for(int j=0;j<x;j++)
 				{
 					s1=s1+s.charAt(i-1);
