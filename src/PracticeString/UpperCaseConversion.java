@@ -19,7 +19,7 @@ public class UpperCaseConversion {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		String s="i love you";
-		String Str=UpperCaseConversion.UpperCase(s);
+		String Str=UpperCase(s);
 		System.out.println(Str);
 		
 

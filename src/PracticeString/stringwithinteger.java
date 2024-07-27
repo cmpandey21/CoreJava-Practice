@@ -16,12 +16,12 @@ public class stringwithinteger {
 				s1=s1+s.charAt(i)+count;
 				break;
 			}
+			
 			if(s.charAt(i)!=s.charAt(i+1))
 			{
 				s1=s1+s.charAt(i)+count;
 		      	count=0;
-			
-			}
+		   }
 		}
 		System.out.println(s1);
 	}

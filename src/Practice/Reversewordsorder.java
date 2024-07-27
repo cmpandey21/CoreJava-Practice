@@ -7,7 +7,6 @@ public class Reversewordsorder {
 		{
 		String s1[]=s.split(" ");
 		s="";
-		System.out.print(s);
 		for(int i=s1.length-1;i>=0;i--)
 		{
 			if(i!=0)

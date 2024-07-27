@@ -18,7 +18,7 @@ public class SwapInteger {
 		a=a+b;
 	    b=a-b;
 	    a=a-b;
-	    System.out.println("Value of First Number after Swap"+" "+a+" "+"Value of Second Number after Swap "+b);
+	    System.out.println("Value of First Number after Swap"+" "+a+" "+"\nValue of Second Number after Swap "+b);
 				
 	}
 

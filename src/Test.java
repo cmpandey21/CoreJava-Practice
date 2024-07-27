@@ -39,6 +39,9 @@ public class Test {
 		//System.out.println(s);
 		System.out.println(s1);
 		
+		int x=10*10-10;
+		
+		System.out.println(x);
 		
 	}
 

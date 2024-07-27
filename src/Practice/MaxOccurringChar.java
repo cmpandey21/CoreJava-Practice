@@ -5,7 +5,7 @@ public class MaxOccurringChar {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-		String s = "My name is Mohan";
+		String s = "MMMohan";
 		System.out.println(maxOccurringChar(s));
 
 	}

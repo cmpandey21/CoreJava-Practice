@@ -6,7 +6,7 @@ public class Anagram {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-boolean flag=isAnagramSort("Mohan","Pandey");
+boolean flag=isAnagramSort("test","tteb");
 
 System.out.println(flag);
 	}
